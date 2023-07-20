@@ -4,8 +4,9 @@ body {
     font-family: Arial, sans-serif;
   }
   .top-section {
-    background-color: #f0f0f0;
+    background-color: #e2d7d7f2;
     text-align: center;
+    color: #090000;
     padding: 20px 0;
     display: flex;
     align-items: center;
@@ -34,6 +35,15 @@ body {
   }
   h2{
     text-align: center;
+    font-family: initial;
+    font-size: 35px;
+  }
+  p{
+    text-align: justify;
+    font-family: cursive;
+  }
+  ul li{
+    margin: 10px;
   }
   .container {
     display: flex;
@@ -56,4 +66,7 @@ body {
     color: #fff;
     text-align: center;
     padding: 10px;
+  }
+  .bottom-section p{
+    text-align: center;
   }
