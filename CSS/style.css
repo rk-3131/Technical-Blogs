@@ -29,6 +29,12 @@ body {
     font-size: 18px;
     color: #777;
   }
+  a{
+    text-decoration: none;
+  }
+  h2{
+    text-align: center;
+  }
   .container {
     display: flex;
     flex-direction: row;
